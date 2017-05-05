@@ -14,8 +14,3 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 >!e::€
 y::z
 z::y
-::btw::By the way
-^!Up::Send {Up 4}
-^!Right::Send {Right 4}
-^!Left::Send {Left 4}
-^!Down::Send {Down 4}
